@@ -1,0 +1,8 @@
+In order for everything to work,
+You should open the "Appendix G - Java project and website" folder in Intellij
+ and run the project/src/main/AppGUIFXMLTEST.java file.
+
+In order to check the website, you should open it using Visual Studio and running it on a live server in order
+for AJAX to work. 
+
+Other applications like OpenServer can help to run the website without having to open it in Visual Studio and use live server.
