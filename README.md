@@ -1,6 +1,6 @@
 # SEP1 Board Games Management System 
  
-<b>General Information</b><p>A single-user system desiged to manage data about members, games, events, reservations and borrowings of a Board Games Community from VIA University College.</p> 
+<b>General Information</b><p>A single-user system designed to manage data about members, games, events, reservations and borrowings of a Board Games Community from VIA University College.</p> 
 
 <b>Technologies</b>
 <ul>
